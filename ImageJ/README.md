@@ -7,3 +7,8 @@ The problem I was helping with was to solve the following two requirements:
 2. Also, allow for batch processing of many files.
 
 I had sample files and you can follow the whole process of setting this batch script up in [Fiji in this youtube video over here 📺](https://youtu.be/1jWBQqCpky8)
+
+
+## Ongoing Helps
+1. Questions asked on my Discord Server: Kolmogorov Complexity to Compress DNA Sequences Using Python
+2. https://stackoverflow.com/questions/69525701/fluorescence-signal-measurments-accross-the-line
